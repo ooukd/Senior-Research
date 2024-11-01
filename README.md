@@ -8,7 +8,7 @@ This is done by having a main, high-performance node, and a backup/redundant low
 A Small Office/Home Office (SOHO) network will be developed in Cisco Packet Tracer (PT) to simulate network traffic. 
 
 PT's network designer offers a wide range of network device models (routers, switches, endpoints, cables, etc.), and each is labeled. Routers/switches will be designated as **high-power** or **low-power** as they facilitate traffic. The majority of the testing will be affecting these devices.
-#### Tentative Tests
+### Tentative Tests
 All tests will involve sending traffic through the target network equipment while gathering latency and performance data.
 **Test 1: All High** 
 Send all traffic through the high-power device
