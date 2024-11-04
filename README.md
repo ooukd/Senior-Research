@@ -53,6 +53,6 @@ All traffic takes the path with high-performance routers
 **Test 2: All Low** 
 All traffic takes the path with low-performance routers
 
-**Test 3: Interrupt traffic**
+**Test 3: High-Low**
 All traffic takes the path with high and low performance routers​
 
